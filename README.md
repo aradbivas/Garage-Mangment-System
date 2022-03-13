@@ -4,7 +4,7 @@
 This programe is a large scale progame that was written in c# and .net.
 The project uses heritage composition and polymorphism, made to pratice Object Orinated Programming.
 The programe was wrtiten in though of easy maintance and improvent in the future,
-made so th logic part and ui itself(cmd) is seperated so you be able to add new type of vehicles in the future without with minimale change of the progame.
+made so th logic part and  the ui (cmd) is seperated so it will be simple to add new type of vehicles in the future with minimale change of the progame.
 
 The supporte five diffrente types of vehicles,
 Electric bike, electric car, gas car, gas bike and truck
